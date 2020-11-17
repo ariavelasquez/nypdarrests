@@ -21,8 +21,16 @@ p {
     font-size: 16px;
 }
 
-.lead-image {
-    display: table;
+div.lead-image {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+figcaption.caption {
+    display: flex;
     text-align: center;
     margin-left: 25%;
     margin-right: 25%;
