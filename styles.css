@@ -21,11 +21,11 @@ p {
     font-size: 16px;
 }
 
-.lead-image {
-    width: 50%;
-    text-align: center;
-    margin-left: 25%;
-    margin-right: 25%;
+.lead-image img {
+    max-width: 800px;
+    width: 100%;
+    display: table;
+    margin: 0 auto;
 }
 
 figcaption.caption {
