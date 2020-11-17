@@ -21,9 +21,8 @@ p {
     font-size: 16px;
 }
 
-div.lead-image {
-    display: flex;
-    flex-direction: column;
+.lead-image {
+    width: 50%;
     text-align: center;
     margin-left: 25%;
     margin-right: 25%;
